@@ -21,7 +21,7 @@ public:
                         while (l < r && nums[r] == nums[r-1]) r--;
                         l++; r--;
                     }else{
-                        nums[l] + nums[r] < sum ? l++ : r++;
+                        nums[l] + nums[r] < sum ? l++ : r--;
                     }
                 }
             }
