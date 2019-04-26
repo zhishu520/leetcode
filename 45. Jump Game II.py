@@ -1,3 +1,19 @@
+<<<<<<< HEAD
+
+
+
+class Solution(object):
+    def jump(self, nums):
+
+
+
+        
+        
+if __name__ == '__main__':
+    s = Solution()
+    print(s.jump([2,3,1,1,4]))
+
+=======
 class Solution(object):
 
     def jump(self, nums):
@@ -30,3 +46,4 @@ class Solution(object):
 if __name__ == '__main__':
     s = Solution()
     print(s.jump([2,3,1,1,4]))
+>>>>>>> ed39e00bd8a01c0e9c110e36ef3551207756ffee
