@@ -5,6 +5,7 @@ class Solution(object):
         :rtype: int
         """
 
+<<<<<<< HEAD
         if n <= 2:
             return 0
 
@@ -20,3 +21,8 @@ class Solution(object):
                 cnt += 1
 
         return cnt
+=======
+    def isPrimes(self, n):
+        pass
+
+>>>>>>> 467b66627953119b23eb205ab876260e8bbf6502
