@@ -14,6 +14,18 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/leetcode$704__Binary_Search.coverage" NAME="704. Binary Search Coverage Results" MODIFIED="1556371501383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$43__Multiply_Strings.coverage" NAME="43. Multiply Strings Coverage Results" MODIFIED="1555921245190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+<<<<<<< HEAD
+    <SUITE FILE_PATH="coverage/leetcode$204__Count_Primes.coverage" NAME="204. Count Primes Coverage Results" MODIFIED="1556508253890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$48__Rotate_Image.coverage" NAME="48. Rotate Image Coverage Results" MODIFIED="1555910993531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$47_PermutationsII.coverage" NAME="47.PermutationsII Coverage Results" MODIFIED="1555601328128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$29_DivideTwoIntegers.coverage" NAME="29.DivideTwoIntegers Coverage Results" MODIFIED="1555634813960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$67__Add_Binary.coverage" NAME="67. Add Binary Coverage Results" MODIFIED="1556185561653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$171__Excel_Sheet_Column_Number.coverage" NAME="171. Excel Sheet Column Number Coverage Results" MODIFIED="1556268885209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$283__Move_Zeroes.coverage" NAME="283. Move Zeroes Coverage Results" MODIFIED="1556529878749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$33__Search_in_Rotated_Sorted_Array.coverage" NAME="33. Search in Rotated Sorted Array Coverage Results" MODIFIED="1556084862074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$38_Count_and_Say.coverage" NAME="38.Count and Say Coverage Results" MODIFIED="1555635506971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$205__Isomorphic_Strings.coverage" NAME="205. Isomorphic Strings Coverage Results" MODIFIED="1556533281629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+=======
     <SUITE FILE_PATH="coverage/leetcode$47_PermutationsII.coverage" NAME="47.PermutationsII Coverage Results" MODIFIED="1555601328128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$29_DivideTwoIntegers.coverage" NAME="29.DivideTwoIntegers Coverage Results" MODIFIED="1555634813960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$202__Happy_Number.coverage" NAME="202. Happy Number Coverage Results" MODIFIED="1556290773710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -26,6 +38,7 @@
     <SUITE FILE_PATH="coverage/leetcode$33__Search_in_Rotated_Sorted_Array.coverage" NAME="33. Search in Rotated Sorted Array Coverage Results" MODIFIED="1556084862074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$48__Rotate_Image.coverage" NAME="48. Rotate Image Coverage Results" MODIFIED="1555910993531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$868__Binary_Gap.coverage" NAME="868. Binary Gap Coverage Results" MODIFIED="1556373597089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+>>>>>>> 467b66627953119b23eb205ab876260e8bbf6502
     <SUITE FILE_PATH="coverage/leetcode$20__Valid_Parentheses.coverage" NAME="20. Valid Parentheses Coverage Results" MODIFIED="1556085234043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$198__House_Robber.coverage" NAME="198. House Robber Coverage Results" MODIFIED="1556363302067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$67__Add_Binary.coverage" NAME="67. Add Binary Coverage Results" MODIFIED="1556185561653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -36,45 +49,124 @@
     <SUITE FILE_PATH="coverage/leetcode$171__Excel_Sheet_Column_Number.coverage" NAME="171. Excel Sheet Column Number Coverage Results" MODIFIED="1556268885209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
+<<<<<<< HEAD
+    <leaf>
+      <file leaf-file-name="367. Valid Perfect Square.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/367. Valid Perfect Square.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+=======
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="917. Reverse Only Letters.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/917. Reverse Only Letters.py">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="378">
               <caret line="21" selection-start-line="21" selection-end-line="21" />
+=======
+            <state relative-caret-position="126">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+>>>>>>> 467b66627953119b23eb205ab876260e8bbf6502
+>>>>>>> b2ac8119c034d998580044c9bb0e00a07a0fe4db
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="98. Validate Binary Search Tree.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/98. Validate Binary Search Tree.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
               <caret line="17" selection-start-line="17" selection-end-line="17" />
+=======
+<<<<<<< HEAD
+      <file leaf-file-name="344. Reverse String.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/344. Reverse String.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+=======
+      <file leaf-file-name="700. Search in a Binary Search Tree.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/700. Search in a Binary Search Tree.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="414">
+              <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+>>>>>>> 467b66627953119b23eb205ab876260e8bbf6502
+>>>>>>> b2ac8119c034d998580044c9bb0e00a07a0fe4db
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="997. Find the Town Judge.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/997. Find the Town Judge.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
               <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+=======
+<<<<<<< HEAD
+      <file leaf-file-name="283. Move Zeroes.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/283. Move Zeroes.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+=======
+      <file leaf-file-name="704. Binary Search.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/704. Binary Search.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+>>>>>>> 467b66627953119b23eb205ab876260e8bbf6502
+>>>>>>> b2ac8119c034d998580044c9bb0e00a07a0fe4db
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="709. To Lower Case.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/709. To Lower Case.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="234">
               <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+=======
+<<<<<<< HEAD
+      <file leaf-file-name="278. First Bad Version.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/278. First Bad Version.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+=======
+      <file leaf-file-name="500. Keyboard Row.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/500. Keyboard Row.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="370">
+              <caret line="36" column="18" selection-end-line="45" />
+>>>>>>> 467b66627953119b23eb205ab876260e8bbf6502
+>>>>>>> b2ac8119c034d998580044c9bb0e00a07a0fe4db
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="605. Can Place Flowers.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/605. Can Place Flowers.py">
+=======
+<<<<<<< HEAD
+      <file leaf-file-name="205. Isomorphic Strings.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/205. Isomorphic Strings.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="349. Intersection of Two Arrays.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/349. Intersection of Two Arrays.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="15" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
+=======
+      <file leaf-file-name="1025. Divisor Game.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1025. Divisor Game.py">
+>>>>>>> b2ac8119c034d998580044c9bb0e00a07a0fe4db
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="232">
               <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
@@ -85,44 +177,114 @@
       <file leaf-file-name="754. Reach a Number.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/754. Reach a Number.py">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="63">
               <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+=======
+            <state relative-caret-position="342">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+>>>>>>> 467b66627953119b23eb205ab876260e8bbf6502
+>>>>>>> b2ac8119c034d998580044c9bb0e00a07a0fe4db
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="1030. Matrix Cells in Distance Order.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/1030. Matrix Cells in Distance Order.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
               <caret line="15" lean-forward="true" selection-end-line="21" />
+=======
+<<<<<<< HEAD
+      <file leaf-file-name="350. Intersection of Two Arrays II.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/350. Intersection of Two Arrays II.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+=======
+      <file leaf-file-name="868. Binary Gap.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/868. Binary Gap.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="25" selection-end-line="25" />
+>>>>>>> 467b66627953119b23eb205ab876260e8bbf6502
+>>>>>>> b2ac8119c034d998580044c9bb0e00a07a0fe4db
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="1002. Find Common Characters.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/1002. Find Common Characters.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="288">
               <caret line="16" column="24" selection-end-line="25" />
+=======
+<<<<<<< HEAD
+      <file leaf-file-name="290. Word Pattern.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/290. Word Pattern.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+=======
+      <file leaf-file-name="617. Merge Two Binary Trees.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/617. Merge Two Binary Trees.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-54">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+>>>>>>> 467b66627953119b23eb205ab876260e8bbf6502
+>>>>>>> b2ac8119c034d998580044c9bb0e00a07a0fe4db
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="1010. Pairs of Songs With Total Durations Divisible by 60.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/1010. Pairs of Songs With Total Durations Divisible by 60.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="198">
               <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+=======
+<<<<<<< HEAD
+      <file leaf-file-name="268. Missing Number.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/268. Missing Number.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="7" selection-end-line="17" />
+=======
+      <file leaf-file-name="771. Jewels and Stones.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/771. Jewels and Stones.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+>>>>>>> 467b66627953119b23eb205ab876260e8bbf6502
+>>>>>>> b2ac8119c034d998580044c9bb0e00a07a0fe4db
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="872. Leaf-Similar Trees.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/872. Leaf-Similar Trees.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="144">
               <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+=======
+<<<<<<< HEAD
+      <file leaf-file-name="263. Ugly Number.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/263. Ugly Number.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+=======
+      <file leaf-file-name="766. Toeplitz Matrix.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/766. Toeplitz Matrix.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+>>>>>>> 467b66627953119b23eb205ab876260e8bbf6502
+>>>>>>> b2ac8119c034d998580044c9bb0e00a07a0fe4db
             </state>
           </provider>
         </entry>
@@ -177,6 +339,27 @@
         <option value="$PROJECT_DIR$/172. Factorial Trailing Zeroes.py" />
         <option value="$PROJECT_DIR$/189. Rotate Array.py" />
         <option value="$PROJECT_DIR$/190. Reverse Bits.py" />
+<<<<<<< HEAD
+        <option value="$PROJECT_DIR$/204. Count Primes.py" />
+        <option value="$PROJECT_DIR$/class Solution(object):     def isPowerOfTwo(self, n):         &quot;&quot;&quot;         :type n: int         :rtype: bool         &quot;&quot;&quot;.py" />
+        <option value="$PROJECT_DIR$/231. Power of Two.py" />
+        <option value="$PROJECT_DIR$/796. Rotate String.py" />
+        <option value="$PROJECT_DIR$/226. Invert Binary Tree.py" />
+        <option value="$PROJECT_DIR$/415. Add Strings.py" />
+        <option value="$PROJECT_DIR$/371. Sum of Two Integers.py" />
+        <option value="$PROJECT_DIR$/342. Power of Four.py" />
+        <option value="$PROJECT_DIR$/326. Power of Three.py" />
+        <option value="$PROJECT_DIR$/367. Valid Perfect Square.py" />
+        <option value="$PROJECT_DIR$/344. Reverse String.py" />
+        <option value="$PROJECT_DIR$/283. Move Zeroes.py" />
+        <option value="$PROJECT_DIR$/278. First Bad Version.py" />
+        <option value="$PROJECT_DIR$/205. Isomorphic Strings.py" />
+        <option value="$PROJECT_DIR$/349. Intersection of Two Arrays.py" />
+        <option value="$PROJECT_DIR$/350. Intersection of Two Arrays II.py" />
+        <option value="$PROJECT_DIR$/290. Word Pattern.py" />
+        <option value="$PROJECT_DIR$/268. Missing Number.py" />
+        <option value="$PROJECT_DIR$/263. Ugly Number.py" />
+=======
         <option value="$PROJECT_DIR$/202. Happy Number.py" />
         <option value="$PROJECT_DIR$/198. House Robber.py" />
         <option value="$PROJECT_DIR$/203. Remove Linked List Elements.py" />
@@ -190,6 +373,7 @@
         <option value="$PROJECT_DIR$/1025. Divisor Game.py" />
         <option value="$PROJECT_DIR$/1022. Sum of Root To Leaf Binary Numbers.py" />
         <option value="$PROJECT_DIR$/868. Binary Gap.py" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/917. Reverse Only Letters.py" />
         <option value="$PROJECT_DIR$/98. Validate Binary Search Tree.py" />
         <option value="$PROJECT_DIR$/997. Find the Town Judge.py" />
@@ -200,6 +384,9 @@
         <option value="$PROJECT_DIR$/1002. Find Common Characters.py" />
         <option value="$PROJECT_DIR$/1010. Pairs of Songs With Total Durations Divisible by 60.py" />
         <option value="$PROJECT_DIR$/872. Leaf-Similar Trees.py" />
+=======
+>>>>>>> 467b66627953119b23eb205ab876260e8bbf6502
+>>>>>>> b2ac8119c034d998580044c9bb0e00a07a0fe4db
       </list>
     </option>
   </component>
@@ -212,10 +399,25 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
+<<<<<<< HEAD
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="777" />
+=======
+<<<<<<< HEAD
+  <component name="ProjectFrameBounds">
+    <option name="x" value="765" />
+    <option name="y" value="34" />
+    <option name="width" value="1155" />
+=======
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="310" />
+    <option name="y" value="220" />
+    <option name="width" value="1668" />
+>>>>>>> 467b66627953119b23eb205ab876260e8bbf6502
+    <option name="height" value="1057" />
+>>>>>>> b2ac8119c034d998580044c9bb0e00a07a0fe4db
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -258,8 +460,18 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Python.1010. Pairs of Songs With Total Durations Divisible by 60">
     <configuration name="1010. Pairs of Songs With Total Durations Divisible by 60" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+<<<<<<< HEAD
+  <component name="RunManager" selected="Python.205. Isomorphic Strings">
+    <configuration name="171. Excel Sheet Column Number" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+  <component name="RunManager" selected="Python.868. Binary Gap">
+    <configuration name="198. House Robber" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> 467b66627953119b23eb205ab876260e8bbf6502
+>>>>>>> b2ac8119c034d998580044c9bb0e00a07a0fe4db
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -278,7 +490,15 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="46.Permutations" type="PythonConfigurationType" factoryName="Python">
+=======
+<<<<<<< HEAD
+    <configuration name="204. Count Primes" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+    <configuration name="202. Happy Number" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> 467b66627953119b23eb205ab876260e8bbf6502
+>>>>>>> b2ac8119c034d998580044c9bb0e00a07a0fe4db
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -291,13 +511,29 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/46.Permutations.py" />
+=======
+<<<<<<< HEAD
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/204. Count Primes.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/202. Happy Number.py" />
+>>>>>>> 467b66627953119b23eb205ab876260e8bbf6502
+>>>>>>> b2ac8119c034d998580044c9bb0e00a07a0fe4db
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="605. Can Place Flowers" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+<<<<<<< HEAD
+    <configuration name="205. Isomorphic Strings" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+    <configuration name="46.Permutations" type="PythonConfigurationType" factoryName="Python">
+>>>>>>> 467b66627953119b23eb205ab876260e8bbf6502
+>>>>>>> b2ac8119c034d998580044c9bb0e00a07a0fe4db
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -310,13 +546,29 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/605. Can Place Flowers.py" />
+=======
+<<<<<<< HEAD
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/205. Isomorphic Strings.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/46.Permutations.py" />
+>>>>>>> 467b66627953119b23eb205ab876260e8bbf6502
+>>>>>>> b2ac8119c034d998580044c9bb0e00a07a0fe4db
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="754. Reach a Number" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+<<<<<<< HEAD
+    <configuration name="283. Move Zeroes" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+    <configuration name="500. Keyboard Row" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> 467b66627953119b23eb205ab876260e8bbf6502
+>>>>>>> b2ac8119c034d998580044c9bb0e00a07a0fe4db
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -329,7 +581,15 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/754. Reach a Number.py" />
+=======
+<<<<<<< HEAD
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/283. Move Zeroes.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/500. Keyboard Row.py" />
+>>>>>>> 467b66627953119b23eb205ab876260e8bbf6502
+>>>>>>> b2ac8119c034d998580044c9bb0e00a07a0fe4db
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -375,6 +635,28 @@
     </configuration>
     <list>
       <item itemvalue="Python.46.Permutations" />
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+      <item itemvalue="Python.67. Add Binary" />
+      <item itemvalue="Python.171. Excel Sheet Column Number" />
+      <item itemvalue="Python.204. Count Primes" />
+      <item itemvalue="Python.283. Move Zeroes" />
+      <item itemvalue="Python.205. Isomorphic Strings" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.205. Isomorphic Strings" />
+        <item itemvalue="Python.283. Move Zeroes" />
+        <item itemvalue="Python.204. Count Primes" />
+        <item itemvalue="Python.171. Excel Sheet Column Number" />
+        <item itemvalue="Python.67. Add Binary" />
+=======
+      <item itemvalue="Python.202. Happy Number" />
+      <item itemvalue="Python.198. House Robber" />
+      <item itemvalue="Python.704. Binary Search" />
+      <item itemvalue="Python.500. Keyboard Row" />
+>>>>>>> b2ac8119c034d998580044c9bb0e00a07a0fe4db
       <item itemvalue="Python.868. Binary Gap" />
       <item itemvalue="Python.917. Reverse Only Letters" />
       <item itemvalue="Python.605. Can Place Flowers" />
@@ -388,6 +670,14 @@
         <item itemvalue="Python.605. Can Place Flowers" />
         <item itemvalue="Python.917. Reverse Only Letters" />
         <item itemvalue="Python.868. Binary Gap" />
+<<<<<<< HEAD
+=======
+        <item itemvalue="Python.500. Keyboard Row" />
+        <item itemvalue="Python.704. Binary Search" />
+        <item itemvalue="Python.198. House Robber" />
+        <item itemvalue="Python.202. Happy Number" />
+>>>>>>> 467b66627953119b23eb205ab876260e8bbf6502
+>>>>>>> b2ac8119c034d998580044c9bb0e00a07a0fe4db
       </list>
     </recent_temporary>
   </component>
@@ -405,7 +695,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
     <frame x="0" y="23" width="1280" height="777" extended-state="0" />
+=======
+<<<<<<< HEAD
+    <frame x="0" y="34" width="1920" height="1057" extended-state="0" />
+=======
+    <frame x="0" y="23" width="1280" height="777" extended-state="6" />
+>>>>>>> 467b66627953119b23eb205ab876260e8bbf6502
+>>>>>>> b2ac8119c034d998580044c9bb0e00a07a0fe4db
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -413,9 +711,21 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.32941177" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.35735294" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.44411764" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22294022" />
+=======
+<<<<<<< HEAD
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33724654" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.34578443" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2593184" />
+=======
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2367647" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.34578443" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3933764" />
+>>>>>>> 467b66627953119b23eb205ab876260e8bbf6502
+>>>>>>> b2ac8119c034d998580044c9bb0e00a07a0fe4db
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -441,7 +751,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/33. Search in Rotated Sorted Array.py</url>
+          <url />
           <line>12</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
@@ -450,6 +760,56 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+    <entry file="file://$PROJECT_DIR$/38.Count and Say.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="9" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/746.MinCostClimbingStairs.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/646.MaximumLengthofPairChain.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/50.Pow(x,n).cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/47.PermutationsII.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/49.GroupAnagrams.cpp" />
+>>>>>>> 467b66627953119b23eb205ab876260e8bbf6502
+    <entry file="file://$PROJECT_DIR$/45. Jump Game II.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/21. Merge Two Sorted Lists.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20. Valid Parentheses.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/33. Search in Rotated Sorted Array.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="18" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+>>>>>>> b2ac8119c034d998580044c9bb0e00a07a0fe4db
     <entry file="file://$PROJECT_DIR$/43. Multiply Strings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
@@ -564,17 +924,62 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/125. Valid Palindrome.py">
+    <entry file="file://$PROJECT_DIR$/190. Reverse Bits.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="60">
+          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/136. Single Number.py">
+    <entry file="file://$PROJECT_DIR$/189. Rotate Array.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" lean-forward="true" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/172. Factorial Trailing Zeroes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/171. Excel Sheet Column Number.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/169. Majority Element.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/168. Excel Sheet Column Title.py">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="270">
+          <caret line="18" column="15" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
+=======
+        <state relative-caret-position="324">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+>>>>>>> 467b66627953119b23eb205ab876260e8bbf6502
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/155. Min Stack.py">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="360">
+          <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+=======
         <state relative-caret-position="234">
           <caret line="13" selection-start-line="13" selection-end-line="13" />
+>>>>>>> 467b66627953119b23eb205ab876260e8bbf6502
         </state>
       </provider>
     </entry>
@@ -585,52 +990,172 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/155. Min Stack.py">
+    <entry file="file://$PROJECT_DIR$/136. Single Number.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="195">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+=======
         <state relative-caret-position="432">
           <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+>>>>>>> 467b66627953119b23eb205ab876260e8bbf6502
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/168. Excel Sheet Column Title.py">
+    <entry file="file://$PROJECT_DIR$/125. Valid Palindrome.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="270">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+=======
         <state relative-caret-position="324">
           <caret line="18" column="15" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
+>>>>>>> 467b66627953119b23eb205ab876260e8bbf6502
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/169. Majority Element.py">
+    <entry file="file://$PROJECT_DIR$/class Solution(object):     def isPowerOfTwo(self, n):         &quot;&quot;&quot;         :type n: int         :rtype: bool         &quot;&quot;&quot;.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/204. Count Primes.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="315">
+          <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+=======
         <state relative-caret-position="360">
           <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+>>>>>>> 467b66627953119b23eb205ab876260e8bbf6502
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/171. Excel Sheet Column Number.py">
+    <entry file="file://$PROJECT_DIR$/796. Rotate String.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/226. Invert Binary Tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/415. Add Strings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/371. Sum of Two Integers.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/231. Power of Two.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" lean-forward="true" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/342. Power of Four.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/326. Power of Three.py">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="240">
+=======
         <state relative-caret-position="288">
+>>>>>>> 467b66627953119b23eb205ab876260e8bbf6502
           <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/172. Factorial Trailing Zeroes.py">
+    <entry file="file://$PROJECT_DIR$/367. Valid Perfect Square.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="135">
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+=======
         <state relative-caret-position="54">
           <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+>>>>>>> 467b66627953119b23eb205ab876260e8bbf6502
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/189. Rotate Array.py">
+    <entry file="file://$PROJECT_DIR$/344. Reverse String.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="105">
+          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+=======
         <state relative-caret-position="216">
           <caret line="12" selection-end-line="15" />
+>>>>>>> 467b66627953119b23eb205ab876260e8bbf6502
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/190. Reverse Bits.py">
+    <entry file="file://$PROJECT_DIR$/283. Move Zeroes.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="375">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/278. First Bad Version.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/205. Isomorphic Strings.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/349. Intersection of Two Arrays.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="15" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/350. Intersection of Two Arrays II.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/290. Word Pattern.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/268. Missing Number.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="7" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/263. Ugly Number.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+=======
         <state relative-caret-position="72">
           <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+>>>>>>> 467b66627953119b23eb205ab876260e8bbf6502
         </state>
       </provider>
     </entry>
