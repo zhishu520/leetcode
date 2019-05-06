@@ -6,22 +6,31 @@ class Solution(object):
         :rtype: int
         """
 
-        l = len(trust)
-
-        if l != N - 1:
-            return -1
-
-        judge = trust[0][1]
+        A = [0] * (N + 1)
 
         for i in trust:
-            if i[1] != judge:
-                return -1
+            A[i[0]] = i[1]
+
+        judge = 0
+
+        for i in range(1, len(A)):
+            if A[i] == 0:
+                judge = i
+
+        if judge == 0:
+            return -1
+
+        for i in range(1, len(A)):
+            a = A[i]
+            t = A[i]
 
         return judge
 
 
 
-
-
+if __name__ == '__main__':
+    s = Solution()
+    r = s.findJudge(3, [[1,2], [2,3]])
+    print r
 
 
