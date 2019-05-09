@@ -3,8 +3,12 @@ class Solution:
     # @return an integer
     def reverseBits(self, n):
         r = 0
-        while n:
+
+        i = 0
+        while i < 32:
             r *= 2
             r += n % 2
-            n = int(n/2)
+            n = int(n / 2)
+
+            i += 1
         return r
