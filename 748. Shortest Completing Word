@@ -1,0 +1,4 @@
+class Solution:
+    def shortestCompletingWord(self, licensePlate: str, words: List[str]) -> str:
+        dic = collections.Counter("".join(re.findall("[a-zA-Z]",licensePlate)).lower())
+        return min([w for w in words if (collections.Counter(w) & dic) == dic],key=len)
