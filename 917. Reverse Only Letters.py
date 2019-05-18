@@ -20,7 +20,7 @@ class Solution(object):
                 print("yes 2")
                 r -= 1
 
-            if l >= s or r < 0:
+            if l >= r:
                 break
             print("yes 3")
 
