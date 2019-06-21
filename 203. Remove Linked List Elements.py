@@ -12,7 +12,6 @@ class Solution(object):
         :rtype: ListNode
         """
 
-
         r = head
         pre = None
 
@@ -22,6 +21,8 @@ class Solution(object):
                     r = head.next
                 else:
                     pre.next = head.next
+            else:
+                pre = head
 
             head = head.next
 

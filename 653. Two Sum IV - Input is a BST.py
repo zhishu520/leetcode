@@ -12,27 +12,29 @@ class Solution(object):
         :type k: int
         :rtype: bool
         """
-        self.realroot = root
-        return self.search(root, k)
-
-    def search(self, root, k):
 
         if root == None:
             return False
 
-        if self.find(root.left, k - root.val) or self.find(root.right, k - root.val):
+        if hasattr(self, "realroot") == False:
+            self.realroot = root
+
+        def find(root, target, ban):
+            if root == None:
+                return False
+
+            if root.val == target and root != ban:
+                return True
+
+            return find(root.left if target < root.val else root.right, target, ban)
+
+
+        if find(self.realroot, k - root.val, root):
             return True
-        else:
-            l = self.findTarget(root.left, k)
-            r = self.findTarget(root.right, k)
-            return l or r
 
-    def find(self, root, target):
-        if root == None:
-            return False
-
-        if root.val == target:
+        if find(self.realroot, k - root.val, root):
             return True
 
-        return self.find(root.left if target < root.val else root.right, target)
+        return self.findTarget(root.left, k) or self.findTarget(root.right, k)
+
 
